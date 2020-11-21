@@ -2,6 +2,6 @@
 
 Script that returns latitude and longitude in Decimal Degrees from address name.
 
-Instalattion
+# Instalattion
 
 pip install ArcGIS
